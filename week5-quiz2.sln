@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week5-quiz2", "week5-quiz2\week5-quiz2.csproj", "{4060AE41-FA21-40D8-89E5-181CC330DB6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week5-quiz2.Data", "week5-quiz2.Data\week5-quiz2.Data.csproj", "{84AACE88-EEAE-42EA-ABE1-40C9044CDB70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week5-quiz2.Data.Model", "week5-quiz2.Data.Model\week5-quiz2.Data.Model.csproj", "{465A97D1-3593-4DFF-A63A-A0B4D27F3435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4060AE41-FA21-40D8-89E5-181CC330DB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4060AE41-FA21-40D8-89E5-181CC330DB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4060AE41-FA21-40D8-89E5-181CC330DB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4060AE41-FA21-40D8-89E5-181CC330DB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AACE88-EEAE-42EA-ABE1-40C9044CDB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AACE88-EEAE-42EA-ABE1-40C9044CDB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AACE88-EEAE-42EA-ABE1-40C9044CDB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AACE88-EEAE-42EA-ABE1-40C9044CDB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465A97D1-3593-4DFF-A63A-A0B4D27F3435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465A97D1-3593-4DFF-A63A-A0B4D27F3435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465A97D1-3593-4DFF-A63A-A0B4D27F3435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465A97D1-3593-4DFF-A63A-A0B4D27F3435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
